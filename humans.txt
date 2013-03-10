@@ -1,0 +1,17 @@
+/*TEAM*/
+
+  Hm, i don't have team, so lonely...
+
+
+/* THANKS */
+
+  Hosting: Github Pages <http://pages.github.com/>
+  For E-mail and DNS: Google Apps <http://apps.google.com/>
+
+
+/*SITE*/
+
+  Last update: 2013/03/10
+  Standards: HTML5, CSS3, JS
+  Components: Google Analytics
+  Software: Sublime Text 2, Github for Mac, git
