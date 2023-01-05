@@ -1,0 +1,63 @@
+==================================================================
+https://keybase.io/andrewdryga
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dryga.com
+  * I am andrewdryga (https://keybase.io/andrewdryga) on keybase.
+  * I have a public key with fingerprint A3B3 6F4D 56EC DF44 70A2  1C11 73B7 DDE1 A8AC 23B9
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "011687436333300c2dff8f29fdf7426f580547a79d025fa760c9796447921ddb4c640a",
+      "fingerprint": "a3b36f4d56ecdf4470a21c1173b7dde1a8ac23b9",
+      "host": "keybase.io",
+      "key_id": "73b7dde1a8ac23b9",
+      "kid": "011687436333300c2dff8f29fdf7426f580547a79d025fa760c9796447921ddb4c640a",
+      "uid": "b6855553e53cc0040befce524394ff19",
+      "username": "andrewdryga"
+    },
+    "service": {
+      "hostname": "dryga.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1672954963,
+  "expire_in": 157680000,
+  "prev": "a660064d561921f08a5f6e276a9c483458c707b04ada7b0bc83cf1ea2846ff7f",
+  "seqno": 31,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMFFAnicrVI7ixRBEJ71hR4enAYniIltYrAc3dOvmTU1UMTI3KUf1Xt9dzuzzszu
+uqznH1AMRORA8YEIBhdcIBxG4mIi9wdMhPMHaKSBmNi9nJmhlRRd9X1ffVX0x8XD
+ycJyvfvl65vtC+9aex+2honZvXxjinRpJ6gzReswT7BhoW66696iDsKEiEwyKmgI
+jE1qnctcmjvrJEuF4xnmTCqZW5xyp6TAJpe5YEzmKbFWMyMYVqiNnC96UA0qXzRB
+VlFNhWOWCzDWBTRWKTGESKqltUBUpkxKdR6Iq2UdGcGcVjWs+DLUwqM7t/cP/H/2
+PZzLaZHxEBQ4NQZjhjU4AzxlNGfOkTh3WENVqD7E7QpbwdhWk55Cm20UGiNvIN42
+LnMAmrdXTNkP3EFVNqUpN0J5tWkGdSfSmskg4saguwcKXe0LG+4YGCOoal8WqEMC
+0jQ+ShIh05yzXNA2gtsDX0HXRwSXIsMh4hwYRX9CYCzi9UnY1uFMcScglULlhmWU
+8cxILDVmyqqQtMmocQRUmjHhnHQo7nSrKFGHkuBT9YJm7XuFaoYVoM3ZzSPJ8kJy
+7Oih+L+ShRNLf3/dzqyVXN9bur+zf/zcSfVj/OLn2tv+6c9n+2e+weJs//zD7+xq
+K1l7/uzuFfn02qvX9rfYfnDncfvXpXvvnzyaXvy09fJUL/kDLUDhTg==
+=3SEq
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andrewdryga
+
+==================================================================
