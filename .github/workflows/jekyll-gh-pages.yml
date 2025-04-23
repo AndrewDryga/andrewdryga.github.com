@@ -35,6 +35,10 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: Copy Keybase proof
+        run: |
+          mkdir -p _site/.well-known
+          cp -R .well-known/* _site/.well-known/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
